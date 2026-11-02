@@ -1,6 +1,6 @@
 # Processed Olink datasets
 
-One folder per dataset (21 total, including Coffey 2024 (row062) added; row040 split into TIMEPOINT/OUTREACH cohorts, row086 into CITN-10/CITN-13). Each contains:
+The master folder contains all aggregated datasets.
 
 - `expression_matrix.csv` - rows = markers (harmonized Olink assay names), columns = samples. An assay measured on more than one panel keeps one row per panel (`name|panel`). PRINCE (row072) releases IL-10, IL-6 and LAMP3 twice per sample; these are kept as `|measurement 1 of 2` / `|measurement 2 of 2`, not averaged.
 - `sample_metadata.csv` - one row per matrix column, same order (`sample_id` = column name): patient, timepoint, treatment and the outcome variables that were released (response, PFS/OS, irAE, etc.).
