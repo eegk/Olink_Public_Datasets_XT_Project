@@ -1,0 +1,35 @@
+Unique proteins across all 21 datasets: 1494
+Proteins in >=2 datasets: 961; in >=10 datasets: 92
+
+Shared by all 10 per-sample Immuno-Oncology datasets: 91 (full IO panel minus Gal-1, which is absent from the REVOLUTION and PORTER releases)
+Shared by all 4 per-sample Inflammation-panel datasets: 92
+IO core ∩ Inflammation core: 43: ADA, CASP8, CCL19, CCL20, CCL23, CCL3, CCL4, CD244, CD40, CD5, CD8A, CSF1, CX3CL1, CXCL1, CXCL10, CXCL11, CXCL5, CXCL9, HGF, IFN-gamma, IL-1 alpha, IL10, IL13, IL18, IL2, IL33, IL4, IL5, IL6, IL7, IL8, LAP TGF-beta-1, MCP-1, MCP-2, MCP-3, MCP-4, PD-L1, TNF, TNFRSF9, TNFSF14, TRAIL, TWEAK, VEGFA
+IO core ∩ Oncology II: 17: CAIX, CD27, CD70, CXCL13, EGF, FASLG, GZMB, GZMH, HGF, ICOSLG, IL6, MIC-A/B, MUC-16, TNFRSF4, TRAIL, VEGFA, VEGFR-2
+IO ∩ Inflammation ∩ Oncology II: 4: HGF, IL6, TRAIL, VEGFA
+Measured in every per-sample dataset except PRINCE (17): 4: HGF, IL6, TRAIL, VEGFA
+Measured in every per-sample dataset incl. PRINCE (30 selected proteins): 3: HGF, IL6, VEGFA
+IO core covered by CITN-10 (11 Target 96 panels): 89/91; by CITN-13 (Explore): 91/91
+PRINCE released proteins within IO core: 28/30
+
+Markers per dataset (unique UniProt):
+  row010_Meng2026_GastricCa: 92
+  row012_Johnson2026_ccRCC: 258
+  row024_Shan2026_OvarianCAR-T: 92
+  row062_Coffey2024_Myeloma: 92
+  row027_Tikkanen2025_SolidTumors: 92
+  row032_Gao2025_NSCLC: 92
+  row033_Xiao2025_TNBC: 92
+  row040_Plummer2025_TIMEPOINT: 92
+  row040_Plummer2025_OUTREACH: 92
+  row044_Braun2025_RCCvaccine: 92  [summary only]
+  row052_Tsimberidou2024_AMADEUS: 172
+  row070_Nunez2023_irAE: 92
+  row072_Padron2022_PRINCE: 30
+  row073_Liu2022_TNBC: 92
+  row078_Barroso-Sousa2021_TNBC: 92  [summary only]
+  row086_Glass2024_CTCL_CITN10: 977
+  row086_Glass2024_CTCL_CITN13: 1462
+  row093_OReilly2026_REVOLUTION: 171
+  row096_Fedak2026_MG: 14  [summary only]
+  row103_Yu2025_LGL: 92
+  row105_Galsky2025_PORTER: 171

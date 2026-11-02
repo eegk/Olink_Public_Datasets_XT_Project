@@ -1,0 +1,44 @@
+loaded row010_Meng2026_GastricCa (92, 97)
+loaded row012_Johnson2026_ccRCC (276, 87)
+loaded row024_Shan2026_OvarianCAR-T (92, 24)
+loaded row062_Coffey2024_Myeloma (92, 42)
+loaded row027_Tikkanen2025_SolidTumors (92, 56)
+loaded row032_Gao2025_NSCLC (92, 59)
+loaded row033_Xiao2025_TNBC (92, 280)
+loaded row040_Plummer2025_TIMEPOINT (92, 19)
+loaded row040_Plummer2025_OUTREACH (92, 19)
+loaded row044_Braun2025_RCCvaccine (92, 3)
+loaded row052_Tsimberidou2024_AMADEUS (172, 278)
+loaded row070_Nunez2023_irAE (92, 172)
+loaded row072_Padron2022_PRINCE (33, 423)
+loaded row073_Liu2022_TNBC (92, 69)
+loaded row078_Barroso-Sousa2021_TNBC (92, 2)
+loaded row086_Glass2024_CTCL_CITN10 (1012, 125)
+loaded row086_Glass2024_CTCL_CITN13 (1472, 43)
+loaded row093_OReilly2026_REVOLUTION (172, 120)
+loaded row096_Fedak2026_MG (15, 6)
+loaded row103_Yu2025_LGL (92, 48)
+loaded row105_Galsky2025_PORTER (172, 183)
+unresolved []
+                            dataset        type  n_markers  n_unique_proteins  n_columns  n_patients                                                                                                                                                    outcome_columns
+0         row010_Meng2026_GastricCa  per-sample         92                 92         97        35.0                                                                                                                                                           response
+1          row012_Johnson2026_ccRCC  per-sample        276                258         87        27.0                                                                                                                                                                   
+2      row024_Shan2026_OvarianCAR-T  per-sample         92                 92         24         NaN                                                                                                                                                                   
+3         row062_Coffey2024_Myeloma  per-sample         92                 92         42        15.0                                                                                                                                         imwg_response_at_timepoint
+4   row027_Tikkanen2025_SolidTumors  per-sample         92                 92         56         NaN                                                                                                                                                                orr
+5              row032_Gao2025_NSCLC  per-sample         92                 92         59         NaN                                                                                                                                   response; relapse; pfs; dead; os
+6              row033_Xiao2025_TNBC  per-sample         92                 92        280       195.0                                                                                                                                                           response
+7      row040_Plummer2025_TIMEPOINT  per-sample         92                 92         19         NaN                                                                                                                                                response; response2
+8       row040_Plummer2025_OUTREACH  per-sample         92                 92         19         NaN                                                                                                                         best_overall_response; response2; response
+9       row044_Braun2025_RCCvaccine     summary         92                 92          3         NaN                                                                                                                                                                   
+10   row052_Tsimberidou2024_AMADEUS  per-sample        172                172        278        73.0                                             best_overall_response; pfs_months; pfs_event_flag; os_months; os_event_flag; responder_flag_crpr; disease_control_flag
+11            row070_Nunez2023_irAE  per-sample         92                 92        172        41.0                                                                                                                                            response; irae_toxicity
+12         row072_Padron2022_PRINCE  per-sample         33                 30        423       106.0                    clinical_observation_os_event; clinical_observation_pfs; clinical_observation_pfs_event; clinical_observation_pfs_reason; best_overall_response
+13              row073_Liu2022_TNBC  per-sample         92                 92         69        40.0                                                                                                                                                                   
+14    row078_Barroso-Sousa2021_TNBC     summary         92                 92          2         NaN                                                                                                                                                                   
+15     row086_Glass2024_CTCL_CITN10  per-sample       1012                977        125        23.0                                                                                                                                        response; granular_response
+16     row086_Glass2024_CTCL_CITN13  per-sample       1472               1462         43        15.0                                                                                                                                        response; granular_response
+17    row093_OReilly2026_REVOLUTION  per-sample        172                171        120        24.0                                                  best_overall_response; pfs_months; pfs_event_flag; pfs_event_description; os_months; os_event_flag; os_1yr_status
+18              row096_Fedak2026_MG     summary         15                 14          6         NaN                                                                                                                                                                   
+19                row103_Yu2025_LGL  per-sample         92                 92         48         NaN                                                                                                                                                                   
+20         row105_Galsky2025_PORTER  per-sample        172                171        183        43.0  ctc_responder; psa_responder; best_overall_response; rpfs_months; rpfs_event_flag; os_months; os_event_flag; composite_endpoint_responder; disease_control_6month

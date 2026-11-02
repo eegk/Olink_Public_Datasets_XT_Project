@@ -1,0 +1,30 @@
+row010_Meng2026_GastricCa          values=   8924 mismatch=0 missing=0 | samples raw=99 excluded=2 processed=97 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=184 
+     excluded samples: ['SC1', 'SC2'] 
+     duplicate raw keys e.g. [(('SC1', 'OID00752'), [9.37308, 8.66677]), (('SC1', 'OID00753'), [5.11209, 4.86002])]
+row062_Coffey2024_Myeloma          values=   3864 mismatch=0 missing=0 | samples raw=42 excluded=0 processed=42 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row012_Johnson2026_ccRCC           values=  24012 mismatch=0 missing=0 | samples raw=89 excluded=2 processed=87 extra_in_processed=0 | markers raw=276 processed=276 | meta_order_ok=True | raw_dup_keys=0 
+     excluded samples: ['CONTROL_SAMPLE_US_CS_AS_2 1', 'CONTROL_SAMPLE_US_CS_AS_2 2'] 
+row024_Shan2026_OvarianCAR-T       values=   2208 mismatch=0 missing=0 | samples raw=26 excluded=2 processed=24 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+     excluded samples: ['SC1', 'SC2'] 
+row027_Tikkanen2025_SolidTumors    values=   5152 mismatch=0 missing=0 | samples raw=56 excluded=0 processed=56 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row032_Gao2025_NSCLC               values=   5428 mismatch=0 missing=0 | samples raw=59 excluded=0 processed=59 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row033_Xiao2025_TNBC               values=  25760 mismatch=0 missing=0 | samples raw=280 excluded=0 processed=280 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row040_Plummer2025_TIMEPOINT       values=   1748 mismatch=0 missing=0 | samples raw=19 excluded=0 processed=19 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row040_Plummer2025_OUTREACH        values=   1748 mismatch=0 missing=0 | samples raw=19 excluded=0 processed=19 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row044_Braun2025_RCCvaccine        values=    276 mismatch=0 missing=0 | samples raw=3 excluded=0 processed=3 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row052_Tsimberidou2024_AMADEUS     values=  47816 mismatch=0 missing=0 | samples raw=278 excluded=0 processed=278 extra_in_processed=0 | markers raw=172 processed=172 | meta_order_ok=True | raw_dup_keys=0 
+row070_Nunez2023_irAE              values=  15824 mismatch=0 missing=0 | samples raw=172 excluded=0 processed=172 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 (patients listed twice: ['IMIT104', 'IMIT76', 'IMIT89'])
+row072_Padron2022_PRINCE           values=   4597 mismatch=0 missing=0 | samples raw=423 excluded=0 processed=423 extra_in_processed=0 | markers raw=33 processed=33 | meta_order_ok=True | raw_dup_keys=0 
+row073_Liu2022_TNBC                values=   6348 mismatch=0 missing=0 | samples raw=69 excluded=0 processed=69 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row078_Barroso-Sousa2021_TNBC      values=    184 mismatch=0 missing=0 | samples raw=2 excluded=0 processed=2 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row086_Glass2024_CTCL_CITN10       values= 126500 mismatch=0 missing=0 | samples raw=135 excluded=10 processed=125 extra_in_processed=0 | markers raw=1012 processed=1012 | meta_order_ok=True | raw_dup_keys=2024 
+     excluded samples: ['CONTROL_SAMPLE_US_INCYTE 1', 'CONTROL_SAMPLE_US_INCYTE 2', 'Healthy Controls_1', 'Healthy Controls_2', 'Positive Control III_1', 'Positive Control III_2', 'Positive Control II_1', 'Positive Control II_2', 'Positive Control I_1', 'Positive Control I_2'] 
+     duplicate raw keys e.g. [(('CONTROL_SAMPLE_US_INCYTE 1', 'OID01272'), [2.56648, 2.50055]), (('CONTROL_SAMPLE_US_INCYTE 2', 'OID01272'), [2.50055, 2.50055])]
+row086_Glass2024_CTCL_CITN13       values=  63296 mismatch=0 missing=0 | samples raw=45 excluded=2 processed=43 extra_in_processed=0 | markers raw=1472 processed=1472 | meta_order_ok=True | raw_dup_keys=0 
+     excluded samples: ['CONTROL_SAMPLE_US_CS_AS_2_1', 'CONTROL_SAMPLE_US_CS_AS_2_2'] 
+row093_OReilly2026_REVOLUTION      values=  20640 mismatch=0 missing=0 | samples raw=120 excluded=0 processed=120 extra_in_processed=0 | markers raw=172 processed=172 | meta_order_ok=True | raw_dup_keys=0 
+row096_Fedak2026_MG                values=     31 mismatch=0 missing=0 | samples raw=6 excluded=0 processed=6 extra_in_processed=0 | markers raw=15 processed=15 | meta_order_ok=True | raw_dup_keys=0 (medians recomputed)
+row103_Yu2025_LGL                  values=   4416 mismatch=0 missing=0 | samples raw=48 excluded=0 processed=48 extra_in_processed=0 | markers raw=92 processed=92 | meta_order_ok=True | raw_dup_keys=0 
+row105_Galsky2025_PORTER           values=  31476 mismatch=0 missing=0 | samples raw=183 excluded=0 processed=183 extra_in_processed=0 | markers raw=172 processed=172 | meta_order_ok=True | raw_dup_keys=0 
+
+TOTAL values compared: 400248 | datasets with problems: []
